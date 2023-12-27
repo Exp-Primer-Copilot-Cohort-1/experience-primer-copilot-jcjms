@@ -47,7 +47,7 @@ Before you open up a codespace on a repository, you can create a development con
 1. Navigating back to your **Code** tab of your repository, click the **Add file** drop-down button, and then click `Create new file`.
 1. Type or paste the following in the empty text field prompt to name your file.
    ```
-   .devcontainer/devcontainer.json
+   ´
    ```
 1. In the body of the new **.devcontainer/devcontainer.json** file, add the following content:
    ```
